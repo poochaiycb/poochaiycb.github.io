@@ -1,15 +1,16 @@
 experiences:
-- place: "南京工程学院擂台机器人实验室"
-  time: "Sep, 2020 - Sep,2021"
-  title: "负责人"
-  subtitle: "作为实验室负责人负责实验室各项赛事"
-  category: "work"
 
 - place: "南京工程学院(NJIT)"
   time: "Sep, 2019 - NOW"
   title: "本科生"
   subtitle: "机械设计制造及其自动化."
   category: "school"
+
+- place: "南京工程学院擂台机器人实验室"
+  time: "Sep, 2020 - Sep,2021"
+  title: "负责人"
+  subtitle: "作为实验室负责人负责实验室各项赛事"
+  category: "work"
 
 - place: "南通通明集团电力建设有限公司"
   time: "July,2021 - Sep,2021"
