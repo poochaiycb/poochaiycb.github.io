@@ -1,0 +1,27 @@
+awards:
+    - name: "江苏省二等奖"
+      time: "2021"
+      title: "全国大学生电子设计大赛"
+      institute: " "
+      
+    - name: "二等奖"
+      time: "2021"
+      title: "中国机器人大赛暨RoboCup机器人世界杯中国赛"
+      institute: " "
+
+    - name: "二等奖"
+      time: "2020"
+      title: "中国机器人大赛暨RoboCup机器人世界杯中国赛"
+      institute: " "
+
+    - name: "三等奖"
+      time: "2020"
+      title: "中国高校智能机器人创意大赛"
+      institute: " "
+
+    - name: "三等"
+      time: "2019-2021"
+      title: "奖学金"
+      institute: "南京工程学院(NJIT)"
+
+    

@@ -1,0 +1,41 @@
+projects:
+  - title: "格斗小车"
+    subtitle: "一种能在擂台上自主寻找敌方机器人并进攻的小车"
+    thumbnail: "assets/projects/combat/car.jpg"
+    url: "https://www.bilibili.com/video/BV1iL4y1w7kR?spm_id_from=333.999.0.0&vd_source=6fee23a1b7dc7048ec0a972fd1393a83"
+    selected: y
+
+  - title: "自动驾驶小车"
+    subtitle: "一种依靠摄像头循迹的小车"
+    thumbnail: "assets/projects/China robot A/robot.jpg"
+    url: "https://www.bilibili.com/video/BV1BL4y1w73U?spm_id_from=333.999.0.0"
+    selected: y
+
+  - title: "ROS小车"
+    subtitle: "一种激光雷达避障的小车"
+    thumbnail: "assets/projects/China robot B/robot.jpg"
+    url: "https://www.bilibili.com/video/BV14Y411K7DN?spm_id_from=333.999.0.0"
+    selected: y
+
+  - title: "基于互联网的非接触式测量系统"
+    subtitle: "一种依赖摄像头捕捉物体并测量运动周期的装置"
+    thumbnail: "assets/projects/Electronic design/cover.jpg"
+    url: "projects/UnderConstruction.html"
+    selected: y
+
+  - title: "防盗系统"
+    subtitle: "一种基于MQTT和阿里云的防盗装置"
+    thumbnail: "assets/projects/cover/cover.jpg"
+    url: "projects/UnderConstruction.html"
+    selected: y
+
+  # subtitle: "A throw system that is able to automunously find the target, estimate target's depth and calculate parabola."
+   # thumbnail: "assets/projects/2019_cannon/cover.jpg"
+   # url: "projects/UnderConstruction.html"
+#selected: y
+
+ # - title: "Challenge Arena Fighting"
+    # subtitle: "An autonomous robot with ability to move over terrains, detect and attack the opponent autonomously."
+    # thumbnail: "assets/projects/2018_fightbot/cover.png"
+     #url: "projects/UnderConstruction.html"
+     #selected: y
